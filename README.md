@@ -2,8 +2,6 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamtushar324.iamtushar324&left_color=green&right_color=red)
-[![Years Badge](https://badges.pufler.dev/years/iamtushar324)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/iamtushar324)](https://badges.pufler.dev)
 
 ### :chart_with_upwards_trend: Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtushar324&show_icons=true&theme=gruvbox)
